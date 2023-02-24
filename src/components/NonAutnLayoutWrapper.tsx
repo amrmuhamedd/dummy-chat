@@ -26,7 +26,7 @@ const NonAuthLayoutWrapper = (props: NonAuthLayoutWrapperProps) => {
                     </Link>
                   </h3>
                   <p className="font-size-16">
-                    Responsive chat App
+                    Responsive hat App
                   </p>
                 </div>
                 <div className="mt-auto">
